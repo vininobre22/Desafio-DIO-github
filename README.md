@@ -1,12 +1,15 @@
 # Desafio-DIO-github
 Desafio sobre Git/Github
 
-## Primeiro Repositório github
+## :book: Primeiro Repositório github
 
-_Esse repositório foi criado apenas para estudos._
+**Esse repositório foi criado apenas para estudos.**
 
-### Links Uteis
+### Links Úteis
 
-Aqui esta o link do site utilizado para algumas sintaxes
+Aqui estão os links dos sites utilizados para algumas sintaxes
 
 <a href="https://www.markdownguide.org/basic-syntax/">Sintaxe Basica Markdown</a>
+
+<a href="https://www.alura.com.br/artigos/escrever-bom-readme">Sintaxe Alura</a>
+
